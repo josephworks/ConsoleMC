@@ -1,0 +1,8 @@
+name: ConsoleMC
+version: @version@
+main: net.josephworks.ConsoleMC
+api-version: 1.13
+prefix: [ConsoleMC]
+authors: [JosephWorks]
+description: Access your server console in-game!
+website: https://josephworks.github.io
