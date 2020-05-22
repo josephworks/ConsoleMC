@@ -1,0 +1,12 @@
+name: Console Command
+main: me.gerry.consolecommand.ConsoleCommand
+author: Schwarzer Zylinder
+version: 1.02
+commands:
+    ccmd:
+        description: Executes the given command via the server console.
+        usage: Use /ccmd <command>
+permissions:
+    consolecommand.cmd:
+        description: Allows you to execute a command.
+        default: false
